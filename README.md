@@ -1,4 +1,4 @@
-# Project UAS Kelompok 6 Grafika Komputer
+# Project UAS Kelompok 6-GrafKom
 
 |  |  |
 |--|--|
