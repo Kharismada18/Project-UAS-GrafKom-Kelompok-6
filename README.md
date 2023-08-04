@@ -2,7 +2,7 @@
 
 |  |  |
 |--|--|
-|Nama Kelompok 6|*Arni Nazira* 🦕|
+|Nama Kelompok 6|*Arni Nazira* (21104410077)🦕|
 | |*Kharisma Dinda Amareta* 🦕|
 | |*Rizka Magvira* 🦕|
 |Kelas|TI-4B|
